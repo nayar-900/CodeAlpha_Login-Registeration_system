@@ -1,0 +1,1 @@
+During my Code Alpha internship, I developed a console-based C++ application for user login and registration. This system manages user authentication and account management securely, highlighting my expertise in C++ programming and my ability to design practical, user-focused software solutions.
